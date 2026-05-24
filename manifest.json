@@ -1,12 +1,13 @@
 {
-  "name": "ICU Scores Calculator",
-  "short_name": "ICU Scores",
+  "name": "CritCalc",
+  "short_name": "CritCalc",
   "description": "Calculadora Médica para UCI",
+  "version": "5.1.0",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#4338ca",
-"icons": [
+  "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
